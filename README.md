@@ -1,2 +1,3 @@
-# sknow
+# SkNOW
+
 Simple Knowledge managment software
